@@ -16,3 +16,7 @@ body {
 .content {
     flex-grow:1;
 }
+
+.img-custom{
+    object-fit:contain;
+}
